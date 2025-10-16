@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paawan Jain!</h1>
-<h3 align="center">A passionate Full Stack Developer mastering Data Structures & Algorithms</h3>
+<h3 align="center">A passionate Full Stack Developer and  Mastering Data Structures & Algorithms</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paawanj&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="Paawanj's GitHub Stats" />
